@@ -1,0 +1,42 @@
+.nombre-centro {
+  text-shadow: 2px 2px 2px black;
+  font-weight: 800;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.section-heading {
+  text-shadow: 2px 2px 2px black;
+  font-weight: 800;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.acerca-demi {
+    text-shadow: 2px 2px 2px black;
+    font-weight: 800;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  
+  }
+
+.proyectos {
+    text-shadow: 2px 2px 2px black !important;
+    font-weight: 800 !important;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important; 
+}
+
+.section-heading-title {
+    /* text-shadow: 2px 2px 2px black; */
+    font-weight: 800;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.contactos {
+    text-shadow: 2px 2px 2px black !important;
+    font-weight: 800 !important;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.software-developer {
+    text-shadow: 2px 2px 2px black !important;
+}
